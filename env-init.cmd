@@ -1,3 +1,3 @@
-conda create -n v2g 
-conda activate v2g 
-conda install python 
+call conda create -n v2g 
+call conda activate v2g 
+call conda install python 
